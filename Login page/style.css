@@ -262,3 +262,7 @@ header {
 .login-register p a:hover { 
     text-decoration: underline;
 } 
+
+.box_main .consultative_text{
+    margin: 20px;
+}
